@@ -1,0 +1,8 @@
+{
+    "app_id": "poki-lukmu",
+    "config_version": 20210101,
+    "name": "Poki",
+    "location": "US-OR",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
